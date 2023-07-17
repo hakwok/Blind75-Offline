@@ -1,0 +1,527 @@
+[
+    {
+        "Problem": "Contains Duplicates",
+        "Difficulty": "Easy",
+        "Group": "Arrays & Hashing",
+        "javaLink": "Headers\\java\\Arrays & Hashing\\ContainsDuplicate.java",
+        "pythonLink": "Headers\\Python\\Arrays & Hashing\\ContainsDuplicate.py"
+    },
+    {
+        "Problem": "Valid Anagram",
+        "Difficulty": "Easy",
+        "Group": "Arrays & Hashing",
+        "javaLink": "Headers\\java\\Arrays & Hashing\\ValidAnagram.java",
+        "pythonLink": "Headers\\Python\\Arrays & Hashing\\ValidAnagram.py"
+    },
+    {
+        "Problem": "Two Sum",
+        "Difficulty": "Easy",
+        "Group": "Arrays & Hashing",
+        "javaLink": "Headers\\java\\Arrays & Hashing\\TwoSum.java",
+        "pythonLink": "Headers\\Python\\Arrays & Hashing\\TwoSum.py"
+    },
+    {
+        "Problem": "Group Anagrams",
+        "Difficulty": "Medium",
+        "Group": "Arrays & Hashing",
+        "javaLink": "Headers\\java\\Arrays & Hashing\\GroupAnagrams.java",
+        "pythonLink": "Headers\\Python\\Arrays & Hashing\\GroupAnagrams.py"
+    },
+    {
+        "Problem": "Top K Frequent Elements",
+        "Difficulty": "Medium",
+        "Group": "Arrays & Hashing",
+        "javaLink": "Headers\\java\\Arrays & Hashing\\TopKFrequentElements.java",
+        "pythonLink": "Headers\\Python\\Arrays & Hashing\\TopKFrequentElements.py"
+    },
+    {
+        "Problem": "Product of Array Except Self",
+        "Difficulty": "Medium",
+        "Group": "Arrays & Hashing",
+        "javaLink": "Headers\\java\\Arrays & Hashing\\ProductOfArrayExceptSelf.java",
+        "pythonLink": "Headers\\Python\\Arrays & Hashing\\ProductOfArrayExceptSelf.py"
+    },
+    {
+        "Problem": "Encode and Decode Strings",
+        "Difficulty": "Medium",
+        "Group": "Arrays & Hashing",
+        "javaLink": "Headers\\java\\Arrays & Hashing\\EncodeAndDecodeStrings.java",
+        "pythonLink": "Headers\\Python\\Arrays & Hashing\\EncodeAndDecodeStrings.py"
+    },
+    {
+        "Problem": "Longest Consecutive Sequence",
+        "Difficulty": "Medium",
+        "Group": "Arrays & Hashing",
+        "javaLink": "Headers\\java\\Arrays & Hashing\\LongestConsecutiveSequence.java",
+        "pythonLink": "Headers\\Python\\Arrays & Hashing\\LongestConsecutiveSequence.py"
+    },
+    {
+        "Problem": "Valid Palindrome",
+        "Difficulty": "Easy",
+        "Group": "Two Pointers",
+        "javaLink": "Headers\\java\\Two Pointers\\ValidPalindrome.java",
+        "pythonLink": "Headers\\Python\\Two Pointers\\ValidPalindrome.py"
+    },
+    {
+        "Problem": "3 Sum",
+        "Difficulty": "Medium",
+        "Group": "Two Pointers",
+        "javaLink": "Headers\\java\\Two Pointers\\3Sum.java",
+        "pythonLink": "Headers\\Python\\Two Pointers\\3Sum.py"
+    },
+    {
+        "Problem": "Container With Most Water",
+        "Difficulty": "Medium",
+        "Group": "Two Pointers",
+        "javaLink": "Headers\\java\\Two Pointers\\ContainerWithMostWater.java",
+        "pythonLink": "Headers\\Python\\Two Pointers\\ContainerWithMostWater.py"
+    },
+    {
+        "Problem": "Best Time to Buy And Sell Stock",
+        "Difficulty": "Easy",
+        "Group": "Sliding Window",
+        "javaLink": "Headers\\java\\Sliding Windows\\BestTimeToBuyAndSellStock.java",
+        "pythonLink": "Headers\\Python\\Sliding Windows\\BestTimeToBuyAndSellStock.py"
+    },
+    {
+        "Problem": "Longest Substring Without Repeating Characters",
+        "Difficulty": "Medium",
+        "Group": "Sliding Window",
+        "javaLink": "Headers\\java\\Sliding Windows\\LongestSubstringWithoutRepeatingCharacters.java",
+        "pythonLink": "Headers\\Python\\Sliding Windows\\LongestSubstringWithoutRepeatingCharacters.py"
+    },
+    {
+        "Problem": "Longest Repeating Character Replacement",
+        "Difficulty": "Medium",
+        "Group": "Sliding Window",
+        "javaLink": "Headers\\java\\Sliding Windows\\LongestRepeatingCharacterReplacement.java",
+        "pythonLink": "Headers\\Python\\Sliding Windows\\LongestRepeatingCharacterReplacement.py"
+    },
+    {
+        "Problem": "Minimum Window Substring",
+        "Difficulty": "Hard",
+        "Group": "Sliding Window",
+        "javaLink": "Headers\\java\\Sliding Windows\\MinimumWindowSubstring.java",
+        "pythonLink": "Headers\\Python\\Sliding Windows\\MinimumWindowSubstring.py"
+    },
+    {
+        "Problem": "Valid Parentheses",
+        "Difficulty": "Easy",
+        "Group": "Stack",
+        "javaLink": "Headers\\java\\Stack\\ValidParentheses.java",
+        "pythonLink": "Headers\\Python\\Stack\\ValidParentheses.py"
+    },
+    {
+        "Problem": "Find Minimum In Rotated Sorted Array",
+        "Difficulty": "Medium",
+        "Group": "Binary Search",
+        "javaLink": "Headers\\java\\Binary Search\\FindMinimumInRotatedSortedArray.java",
+        "pythonLink": "Headers\\Python\\Binary Search\\FindMinimumInRotatedSortedArray.py"
+    },
+    {
+        "Problem": "Search In Rotated Sorted Array",
+        "Difficulty": "Medium",
+        "Group": "Binary Search",
+        "javaLink": "Headers\\java\\Binary Search\\SearchInRotatedSortedArray.java",
+        "pythonLink": "Headers\\Python\\Binary Search\\SearchInRotatedSortedArray.py"
+    },
+    {
+        "Problem": "Reverse Linked List",
+        "Difficulty": "Easy",
+        "Group": "Linked List",
+        "javaLink": "Headers\\java\\Linked List\\ReverseLinkedList.java",
+        "pythonLink": "Headers\\Python\\Linked List\\ReverseLinkedList.py"
+    },
+    {
+        "Problem": "Merge Two Sorted Lists",
+        "Difficulty": "Easy",
+        "Group": "Linked List",
+        "javaLink": "Headers\\java\\Linked List\\MergeTwoSortedLists.java",
+        "pythonLink": "Headers\\Python\\Linked List\\MergeTwoSortedLists.py"
+    },
+    {
+        "Problem": "Reorder List",
+        "Difficulty": "Medium",
+        "Group": "Linked List",
+        "javaLink": "Headers\\java\\Linked List\\ReorderList.java",
+        "pythonLink": "Headers\\Python\\Linked List\\ReorderList.py"
+    },
+    {
+        "Problem": "Remove Nth Node From End of List",
+        "Difficulty": "Medium",
+        "Group": "Linked List",
+        "javaLink": "Headers\\java\\Linked List\\RemoveNthNodeFromEndOfList.java",
+        "pythonLink": "Headers\\Python\\Linked List\\RemoveNthNodeFromEndOfList.py"
+    },
+    {
+        "Problem": "Linked List Cycle",
+        "Difficulty": "Easy",
+        "Group": "Linked List",
+        "javaLink": "Headers\\java\\Linked List\\LinkedListCycle.java",
+        "pythonLink": "Headers\\Python\\Linked List\\LinkedListCycle.py"
+    },
+    {
+        "Problem": "Merge K Sorted Lists",
+        "Difficulty": "Hard",
+        "Group": "Linked List",
+        "javaLink": "Headers\\java\\Linked List\\MergeKSortedLists.java",
+        "pythonLink": "Headers\\Python\\Linked List\\MergeKSortedLists.py"
+    },
+    {
+        "Problem": "Invert Binary Tree",
+        "Difficulty": "Easy",
+        "Group": "Trees",
+        "javaLink": "Headers\\java\\Trees\\InvertBinaryTree.java",
+        "pythonLink": "Headers\\Python\\Trees\\InvertBinaryTree.py"
+    },
+    {
+        "Problem": "Maximum Depth of Binary Tree",
+        "Difficulty": "Easy",
+        "Group": "Trees",
+        "javaLink": "Headers\\java\\Trees\\MaximumDepthOfBinaryTree.java",
+        "pythonLink": "Headers\\Python\\Trees\\MaximumDepthOfBinaryTree.py"
+    },
+    {
+        "Problem": "Same Tree",
+        "Difficulty": "Easy",
+        "Group": "Trees",
+        "javaLink": "Headers\\java\\Trees\\SameTree.java",
+        "pythonLink": "Headers\\Python\\Trees\\SameTree.py"
+    },
+    {
+        "Problem": "Subtree of Another Tree",
+        "Difficulty": "Easy",
+        "Group": "Trees",
+        "javaLink": "Headers\\java\\Trees\\SubtreeOfAnotherTree.java",
+        "pythonLink": "Headers\\Python\\Trees\\SubtreeOfAnotherTree.py"
+    },
+    {
+        "Problem": "Lowest Common Ancestor of a Binary Search Tree",
+        "Difficulty": "Medium",
+        "Group": "Trees",
+        "javaLink": "Headers\\java\\Trees\\LowestCommonAncestorOfABinarySearchTree.java",
+        "pythonLink": "Headers\\Python\\Trees\\LowestCommonAncestorOfABinarySearchTree.py"
+    },
+    {
+        "Problem": "Binary Tree Level Order Traversal",
+        "Difficulty": "Medium",
+        "Group": "Trees",
+        "javaLink": "Headers\\java\\Trees\\BinaryTreeLevelOrderTraversal.java",
+        "pythonLink": "Headers\\Python\\Trees\\BinaryTreeLevelOrderTraversal.py"
+    },
+    {
+        "Problem": "Validate Binary Search Tree",
+        "Difficulty": "Medium",
+        "Group": "Trees",
+        "javaLink": "Headers\\java\\Trees\\ValidateBinarySearchTree.java",
+        "pythonLink": "Headers\\Python\\Trees\\ValidateBinarySearchTree.py"
+    },
+    {
+        "Problem": "Kth Smallest Element in a Bst",
+        "Difficulty": "Medium",
+        "Group": "Trees",
+        "javaLink": "Headers\\java\\Trees\\KthSmallestElementInABst.java",
+        "pythonLink": "Headers\\Python\\Trees\\KthSmallestElementInABst.py"
+    },
+    {
+        "Problem": "Construct Binary Tree From Preorder And Inorder Traversal",
+        "Difficulty": "Medium",
+        "Group": "Trees",
+        "javaLink": "Headers\\java\\Trees\\ConstructBinaryTreeFromPreorderAndInorderTraversal.java",
+        "pythonLink": "Headers\\Python\\Trees\\ConstructBinaryTreeFromPreorderAndInorderTraversal.py"
+    },
+    {
+        "Problem": "Binary Tree Maximum Path Sum",
+        "Difficulty": "Hard",
+        "Group": "Trees",
+        "javaLink": "Headers\\java\\Trees\\BinaryTreeMaximumPathSum.java",
+        "pythonLink": "Headers\\Python\\Trees\\BinaryTreeMaximumPathSum.py"
+    },
+    {
+        "Problem": "Serialize And Deserialize Binary Tree",
+        "Difficulty": "Hard",
+        "Group": "Trees",
+        "javaLink": "Headers\\java\\Trees\\SerializeAndDeserializeBinaryTree.java",
+        "pythonLink": "Headers\\Python\\Trees\\SerializeAndDeserializeBinaryTree.py"
+    },
+    {
+        "Problem": "Implement Trie Prefix Tree",
+        "Difficulty": "Medium",
+        "Group": "Tries",
+        "javaLink": "Headers\\java\\Tries\\ImplementTriePrefixTree.java",
+        "pythonLink": "Headers\\Python\\Tries\\ImplementTriePrefixTree.py"
+    },
+    {
+        "Problem": "Design Add And Search Words Data Structure",
+        "Difficulty": "Medium",
+        "Group": "Tries",
+        "javaLink": "Headers\\java\\Tries\\DesignAddAndSearchWordsDataStructure.java",
+        "pythonLink": "Headers\\Python\\Tries\\DesignAddAndSearchWordsDataStructure.py"
+    },
+    {
+        "Problem": "Word Search II",
+        "Difficulty": "Hard",
+        "Group": "Tries",
+        "javaLink": "Headers\\java\\Tries\\WordSearchII.java",
+        "pythonLink": "Headers\\Python\\Tries\\WordSearchII.py"
+    },
+    {
+        "Problem": "Find Median From Data Stream",
+        "Difficulty": "Hard",
+        "Group": "Heap \\ Priority Queue",
+        "javaLink": "Headers\\java\\Heap & Priority Queue\\FindMedianFromDataStream.java",
+        "pythonLink": "Headers\\Python\\Heap & Priority Queue\\FindMedianFromDataStream.py"
+    },
+    {
+        "Problem": "Combination Sum",
+        "Difficulty": "Medium",
+        "Group": "Backtracking",
+        "javaLink": "Headers\\java\\Backtracking\\CombinationSum.java",
+        "pythonLink": "Headers\\Python\\Backtracking\\CombinationSum.py"
+    },
+    {
+        "Problem": "Word Search",
+        "Difficulty": "Medium",
+        "Group": "Backtracking",
+        "javaLink": "Headers\\java\\Backtracking\\WordSearch.java",
+        "pythonLink": "Headers\\Python\\Backtracking\\WordSearch.py"
+    },
+    {
+        "Problem": "Number Of Islands",
+        "Difficulty": "Medium",
+        "Group": "Graphs",
+        "javaLink": "Headers\\java\\Graphs\\NumberOfIslands.java",
+        "pythonLink": "Headers\\Python\\Graphs\\NumberOfIslands.py"
+    },
+    {
+        "Problem": "Clone Graph",
+        "Difficulty": "Medium",
+        "Group": "Graphs",
+        "javaLink": "Headers\\java\\Graphs\\CloneGraph.java",
+        "pythonLink": "Headers\\Python\\Graphs\\CloneGraph.py"
+    },
+    {
+        "Problem": "Pacific Atlantic Water Flow",
+        "Difficulty": "Medium",
+        "Group": "Graphs",
+        "javaLink": "Headers\\java\\Graphs\\PacificAtlanticWaterFlow.java",
+        "pythonLink": "Headers\\Python\\Graphs\\PacificAtlanticWaterFlow.py"
+    },
+    {
+        "Problem": "Course Schedule",
+        "Difficulty": "Medium",
+        "Group": "Graphs",
+        "javaLink": "Headers\\java\\Graphs\\CourseSchedule.java",
+        "pythonLink": "Headers\\Python\\Graphs\\CourseSchedule.py"
+    },
+    {
+        "Problem": "Number of Connected Components In An Undirected Graph",
+        "Difficulty": "Medium",
+        "Group": "Graphs",
+        "javaLink": "Headers\\java\\Graphs\\NumberOfConnectedComponentsInAnUndirectedGraph.java",
+        "pythonLink": "Headers\\Python\\Graphs\\NumberOfConnectedComponentsInAnUndirectedGraph.py"
+    },
+    {
+        "Problem": "Graph Valid Tree",
+        "Difficulty": "Medium",
+        "Group": "Graphs",
+        "javaLink": "Headers\\java\\Graphs\\GraphValidTree.java",
+        "pythonLink": "Headers\\Python\\Graphs\\GraphValidTree.py"
+    },
+    {
+        "Problem": "Alien Dictionary",
+        "Difficulty": "Hard",
+        "Group": "Advanced Graphs",
+        "javaLink": "Headers\\java\\Advanced Graphs\\AlienDictionary.java",
+        "pythonLink": "Headers\\Python\\Advanced Graphs\\AlienDictionary.py"
+    },
+    {
+        "Problem": "Climbing Stairs",
+        "Difficulty": "Easy",
+        "Group": "1-D Dynamic Programming",
+        "javaLink": "Headers\\java\\1-D Dynamic Programming\\ClimbingStairs.java",
+        "pythonLink": "Headers\\Python\\1-D Dynamic Programming\\ClimbingStairs.py"
+    },
+    {
+        "Problem": "House Robber",
+        "Difficulty": "Medium",
+        "Group": "1-D Dynamic Programming",
+        "javaLink": "Headers\\java\\1-D Dynamic Programming\\HouseRobber.java",
+        "pythonLink": "Headers\\Python\\1-D Dynamic Programming\\HouseRobber.py"
+    },
+    {
+        "Problem": "House Robber II",
+        "Difficulty": "Medium",
+        "Group": "1-D Dynamic Programming",
+        "javaLink": "Headers\\java\\1-D Dynamic Programming\\HouseRobberII.java",
+        "pythonLink": "Headers\\Python\\1-D Dynamic Programming\\HouseRobberII.py"
+    },
+    {
+        "Problem": "Longest Palindrome Substring",
+        "Difficulty": "Medium",
+        "Group": "1-D Dynamic Programming",
+        "javaLink": "Headers\\java\\1-D Dynamic Programming\\LongestPalindromicSubstring.java",
+        "pythonLink": "Headers\\Python\\1-D Dynamic Programming\\LongestPalindromicSubstring.py"
+    },
+    {
+        "Problem": "Palindromic Substrings",
+        "Difficulty": "Medium",
+        "Group": "1-D Dynamic Programming",
+        "javaLink": "Headers\\java\\1-D Dynamic Programming\\PalindromicSubstrings.java",
+        "pythonLink": "Headers\\Python\\1-D Dynamic Programming\\PalindromicSubstrings.py"
+    },
+    {
+        "Problem": "Decode Ways",
+        "Difficulty": "Medium",
+        "Group": "1-D Dynamic Programming",
+        "javaLink": "Headers\\java\\1-D Dynamic Programming\\DecodeWays.java",
+        "pythonLink": "Headers\\Python\\1-D Dynamic Programming\\DecodeWays.py"
+    },
+    {
+        "Problem": "Coin Change",
+        "Difficulty": "Medium",
+        "Group": "1-D Dynamic Programming",
+        "javaLink": "Headers\\java\\1-D Dynamic Programming\\CoinChange.java",
+        "pythonLink": "Headers\\Python\\1-D Dynamic Programming\\CoinChange.py"
+    },
+    {
+        "Problem": "Maximum Product Subarray",
+        "Difficulty": "Medium",
+        "Group": "1-D Dynamic Programming",
+        "javaLink": "Headers\\java\\1-D Dynamic Programming\\MaximumProductSubarray.java",
+        "pythonLink": "Headers\\Python\\1-D Dynamic Programming\\MaximumProductSubarray.py"
+    },
+    {
+        "Problem": "Word Break",
+        "Difficulty": "Medium",
+        "Group": "1-D Dynamic Programming",
+        "javaLink": "Headers\\java\\1-D Dynamic Programming\\WordBreak.java",
+        "pythonLink": "Headers\\Python\\1-D Dynamic Programming\\WordBreak.py"
+    },
+    {
+        "Problem": "Longest Increasing Subsequence",
+        "Difficulty": "Medium",
+        "Group": "1-D Dynamic Programming",
+        "javaLink": "Headers\\java\\1-D Dynamic Programming\\LongestIncreasingSubsequence.java",
+        "pythonLink": "Headers\\Python\\1-D Dynamic Programming\\LongestIncreasingSubsequence.py"
+    },
+    {
+        "Problem": "Unique Paths",
+        "Difficulty": "Medium",
+        "Group": "2-D Dynamic Programming",
+        "javaLink": "Headers\\java\\2-D Dynamic Programming\\UniquePaths.java",
+        "pythonLink": "Headers\\Python\\2-D Dynamic Programming\\UniquePaths.py"
+    },
+    {
+        "Problem": "Longest Common Subsequence",
+        "Difficulty": "Medium",
+        "Group": "2-D Dynamic Programming",
+        "javaLink": "Headers\\java\\2-D Dynamic Programming\\LongestCommonSubsequence.java",
+        "pythonLink": "Headers\\Python\\2-D Dynamic Programming\\LongestCommonSubsequence.py"
+    },
+    {
+        "Problem": "Maxmimum Subarray",
+        "Difficulty": "Medium",
+        "Group": "Greedy",
+        "javaLink": "Headers\\java\\Greedy\\MaximumSubarray.java",
+        "pythonLink": "Headers\\Python\\Greedy\\MaximumSubarray.py"
+    },
+    {
+        "Problem": "Jump Game",
+        "Difficulty": "Medium",
+        "Group": "Greedy",
+        "javaLink": "Headers\\java\\Greedy\\JumpGame.java",
+        "pythonLink": "Headers\\Python\\Greedy\\JumpGame.py"
+    },
+    {
+        "Problem": "Insert Interval",
+        "Difficulty": "Medium",
+        "Group": "Intervals",
+        "javaLink": "Headers\\java\\Intervals\\InsertInterval.java",
+        "pythonLink": "Headers\\Python\\Intervals\\InsertInterval.py"
+    },
+    {
+        "Problem": "Merge Intervals",
+        "Difficulty": "Medium",
+        "Group": "Intervals",
+        "javaLink": "Headers\\java\\Intervals\\MergeIntervals.java",
+        "pythonLink": "Headers\\Python\\Intervals\\MergeIntervals.py"
+    },
+    {
+        "Problem": "Non Overlapping Intervals",
+        "Difficulty": "Medium",
+        "Group": "Intervals",
+        "javaLink": "Headers\\java\\Intervals\\NonOverlappingIntervals.java",
+        "pythonLink": "Headers\\Python\\Intervals\\NonOverlappingIntervals.py"
+    },
+    {
+        "Problem": "Meeting Rooms",
+        "Difficulty": "Easy",
+        "Group": "Intervals",
+        "javaLink": "Headers\\java\\Intervals\\MeetingRooms.java",
+        "pythonLink": "Headers\\Python\\Intervals\\MeetingRooms.py"
+    },
+    {
+        "Problem": "Meeting Rooms",
+        "Difficulty": "Medium",
+        "Group": "Intervals",
+        "javaLink": "Headers\\java\\Intervals\\MeetingRoomsII.java",
+        "pythonLink": "Headers\\Python\\Intervals\\MeetingRoomsII.py"
+    },
+    {
+        "Problem": "Rotate Image",
+        "Difficulty": "Medium",
+        "Group": "Math & Geometry",
+        "javaLink": "Headers\\java\\Math & Geometry\\RotateImage.java",
+        "pythonLink": "Headers\\Python\\Math & Geometry\\RotateImage.py"
+    },
+    {
+        "Problem": "Spiral Matrix",
+        "Difficulty": "Medium",
+        "Group": "Math & Geometry",
+        "javaLink": "Headers\\java\\Math & Geometry\\SpiralMatrix.java",
+        "pythonLink": "Headers\\Python\\Math & Geometry\\SpiralMatrix.py"
+    },
+    {
+        "Problem": "Set Matrix Zeroes",
+        "Difficulty": "Medium",
+        "Group": "Math & Geometry",
+        "javaLink": "Headers\\java\\Math & Geometry\\SetMatrixZeroes.java",
+        "pythonLink": "Headers\\Python\\Math & Geometry\\SetMatrixZeroes.py"
+    },
+    {
+        "Problem": "Number of 1 Bits",
+        "Difficulty": "Easy",
+        "Group": "Bit Manipulation",
+        "javaLink": "Headers\\java\\Bit Manipulation\\NumberOf1Bits.java",
+        "pythonLink": "Headers\\Python\\Bit Manipulation\\NumberOf1Bits.py"
+    },
+    {
+        "Problem": "Counting Bits",
+        "Difficulty": "Easy",
+        "Group": "Bit Manipulation",
+        "javaLink": "Headers\\java\\Bit Manipulation\\CountingBits.java",
+        "pythonLink": "Headers\\Python\\Bit Manipulation\\CountingBits.py"
+    },
+    {
+        "Problem": "Reverse Bits",
+        "Difficulty": "Easy",
+        "Group": "Bit Manipulation",
+        "javaLink": "Headers\\java\\Bit Manipulation\\ReverseBits.java",
+        "pythonLink": "Headers\\Python\\Bit Manipulation\\ReverseBits.py"
+    },
+    {
+        "Problem": "Missing Number",
+        "Difficulty": "Easy",
+        "Group": "Bit Manipulation",
+        "javaLink": "Headers\\java\\Bit Manipulation\\MissingNumber.java",
+        "pythonLink": "Headers\\Python\\Bit Manipulation\\MissingNumber.py"
+    },
+    {
+        "Problem": "Sum of Two Integers",
+        "Difficulty": "Medium",
+        "Group": "Bit Manipulation",
+        "javaLink": "Headers\\java\\Bit Manipulation\\SumOfTwoIntegers.java",
+        "pythonLink": "Headers\\Python\\Bit Manipulation\\SumOfTwoIntegers.py"
+    }
+]

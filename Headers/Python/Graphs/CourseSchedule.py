@@ -1,0 +1,6 @@
+from ast import List
+
+
+class Solution:
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        return False
